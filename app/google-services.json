@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "383693526767",
+    "firebase_url": "https://downloadimage-2a98f.firebaseio.com",
+    "project_id": "downloadimage-2a98f",
+    "storage_bucket": "downloadimage-2a98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383693526767:android:894880e7036ae04d",
+        "android_client_info": {
+          "package_name": "com.example.bill.downloadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383693526767-nj5ud9igtv0v7havqolkm1p9npnotnuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJvTS4BurrnRKbsSOKraHeAM9PoPOXTQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
